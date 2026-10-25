@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Direktori Pengguna</string>
+    <string name="app_title">Direktori Pengguna</string>
+    <string name="status_loading">Memuat data&#8230;</string>
+    <string name="status_success">%1$d pengguna dimuat</string>
+    <string name="loading_from_server">Mengambil data dari server</string>
+    <string name="btn_coba_lagi">Coba Lagi</string>
+    <string name="error_icon_desc">Ikon Error</string>
+    <string name="status_net_error">Tidak ada koneksi internet</string>
+    <string name="status_http_error">Server error (%1$d)</string>
+    <string name="status_unknown_error">Terjadi kesalahan: %1$s</string>
+</resources>
